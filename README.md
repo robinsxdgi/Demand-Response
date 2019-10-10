@@ -1,6 +1,4 @@
-https://github.com/robinsxdgi/Demand-Response
-
-1) You can find code files from the above Github link. The codes were written in Python with Jupyter notebook, including 6 notebooks, named in a way like "PreferenceLearning-Part(N).ipynb", where N = 1, 2, 3, ..., 6.
+1) The codes were written in Python with Jupyter notebook, including 6 notebooks, named in a way like "PreferenceLearning-Part(N).ipynb", where N = 1, 2, 3, ..., 6.
 
 2) It is suggested to use Jupyter notebook to open the code, since you will also see the visualizations and some comments along the figures.
 
