@@ -1,4 +1,4 @@
-Two ways to see the code:
+Two ways to read the code and visualizations:
 
 1. Jupyter notebook: download the code files, which include 6 notebooks named in the format "PreferenceLearning-Part(N).ipynb", where N = 1, 2, 3, ..., 6. Then open them in the Jupyter notebook, and you will also see the visualizations and some comments along the figures.
 
